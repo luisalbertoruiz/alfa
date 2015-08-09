@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: alfa
+        psr4_prefix: alfa
+        src_path: app
